@@ -1,0 +1,4 @@
+networkx
+matplotlib
+pgmpy>=1.0
+jupyter
